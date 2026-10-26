@@ -70,6 +70,11 @@ one at a time. Bug reports from Linux are very welcome, with `secbird report` ou
 
 ## Using it
 
+The editor supports English and Simplified Chinese. It follows your browser's first
+preferred language, or you can choose **Settings → Editor → Language**. The choice is
+saved with the app settings and survives restarts; switching languages reloads the editor. Device names, profile names,
+macro scripts and shortcut/protocol values are kept as entered.
+
 Mouse DPI and DPI stages can be edited independently for the X (horizontal) and Y
 (vertical) axes. **Link X/Y axes** makes subsequent edits apply to both; toggling
 it alone keeps the current values. DPI presets explicitly apply to both axes.
